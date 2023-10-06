@@ -4,7 +4,10 @@ body {
 }
 
 .header,
-.header-menu {
+.header-menu,
+.images-two,
+.section-four,
+.section-one-body {
     display: flex;
 }
 
